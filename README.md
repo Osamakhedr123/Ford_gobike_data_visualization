@@ -2,6 +2,7 @@
 You can find data for this project on [this link](https://www.fordgobike.com/system-data)
 
 # Dataset:  
+This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.
 The dataset contains 15 features (columns) and 174952 entries (rows) for customers and subscribers of the Ford GoBike company.  
 
 # Summary of Findings:  
