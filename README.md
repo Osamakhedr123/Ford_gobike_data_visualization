@@ -1,7 +1,8 @@
 # Ford GoBike System data
-You can find data for this project on [this link](https://www.fordgobike.com/system-data)
+This data set represents trips taken by members of the Ford Go Bike service for month of February of 2019. Data consists of info about trips taken by service's members, their types, their age, their gender, stations of starting and ending trips, duration of trips etc.
 
 # Dataset:  
+You can find data for this project on [this link](https://www.fordgobike.com/system-data)
 This dataset includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.
 The dataset contains 15 features (columns) and 174952 entries (rows) for customers and subscribers of the Ford GoBike company.  
 
