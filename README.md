@@ -1,5 +1,5 @@
 # Ford GoBike System data
-This data set represents trips taken by members of the Ford Go Bike service for month of February of 2019. Data consists of info about trips taken by service's members, their types, their age, their gender, stations of starting and ending trips, duration of trips etc.
+This dataset represents trips taken by members of the Ford Go Bike service for month of February of 2019. Data consists of info about trips taken by service's members, their types, their age, their gender, stations of starting and ending trips, duration of trips etc.
 
 # Dataset:  
 You can find data for this project on [this link](https://www.fordgobike.com/system-data)
